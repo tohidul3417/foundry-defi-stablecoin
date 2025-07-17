@@ -65,7 +65,7 @@ contract DSCEngine is ReentrancyGuard {
 
     //////////
     // Type //
-    ////////// 
+    //////////
     using OracleLib for AggregatorV3Interface;
 
     ///////////////////

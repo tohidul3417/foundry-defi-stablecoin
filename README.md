@@ -1,25 +1,7 @@
 # Foundry DeFi Stablecoin
 
 [![CI](https://github.com/tohidul3417/foundry-defi-stablecoin/actions/workflows/test.yml/badge.svg)](https://github.com/tohidul3417/foundry-defi-stablecoin/actions/workflows/test.yml)
-
-## Table of Contents
-
-- [Foundry DeFi Stablecoin](#foundry-defi-stablecoin)
-  - [Table of Contents](#table-of-contents)
-  - [About The Project](#about-the-project)
-    - [System Architecture](#system-architecture)
-  - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation \& Setup](#installation--setup)
-  - [Usage](#usage)
-    - [Building](#building)
-    - [Testing](#testing)
-    - [Deployment](#deployment)
-  - [Continuous Integration](#continuous-integration)
-  - [Contributing](#contributing)
-  - [License](#license)
-
----
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## About The Project
 
